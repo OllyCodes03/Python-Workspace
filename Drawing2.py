@@ -1,6 +1,6 @@
 import turtle
 
-def olianahaddad_entry(x,y,scale):
+def oreo_entry(x,y,scale):
 
     # Draws yellow circle as background using a loop(represents warmth and positivity).
     turtle.penup()
@@ -29,7 +29,7 @@ def olianahaddad_entry(x,y,scale):
 def main():
     turtle.speed(0)
     # Draws two stamps, not overlapping.
-    olianahaddad_entry(-70,0,1)
-    olianahaddad_entry(70,30,0.8)
+    oreo_entry(-70,0,1)
+    oreo_entry(70,30,0.8)
 
 main()
